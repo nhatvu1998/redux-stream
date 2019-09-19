@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "stream1",
+      "description": "PUBG moblie stream",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "this is other stream",
+      "id": 2
+    },
+    {
+      "title": "stream 3 edit",
+      "description": "this is new stream",
+      "userId": "115693402812626291738",
+      "id": 3
+    }
+  ]
+}
